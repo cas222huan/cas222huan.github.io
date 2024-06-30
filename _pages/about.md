@@ -46,11 +46,11 @@ _Remote Sensing of Environment_ (IF = 11.1, SCI Q1), 2024
 
 [2. Retrieval of daytime surface upward longwave radiation under all-sky conditions with remote sensing and meteorological reanalysis data](https://ieeexplore.ieee.org/abstract/document/9840399)  
 _IEEE Transactions on Geoscience and Remote Sensing_ (IF = 7.5, SCI Q1), 2022  
-[PDF](https://github.com/cas222huan/cas222huan.github.io/blob/master/papers/2023RSE.pdf)
+[PDF](https://drive.google.com/file/d/1s4BnlMT9iCaF64FUZmTux8xekyQxe7Mn/view)
 
 [3. Estimation of downwelling surface longwave radiation for cloudy skies by considering the radiation effect from the entire cloud layers](https://www.sciencedirect.com/science/article/abs/pii/S0034425723003802)  
 _Remote Sensing of Environment_ (IF = 11.1, SCI Q1), 2023  
-[PDF](https://github.com/cas222huan/cas222huan.github.io/blob/master/papers/2022TGRS.pdf)
+[PDF](https://drive.google.com/file/d/1p3rGccWn9uRsOCB2R3rplstEblu_Ier_/view)
 
 Selected Awards
 ======
