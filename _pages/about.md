@@ -38,18 +38,12 @@ Research topics: Clear-sky LST estimation, LST downscaling
 
 Selected Publications
 ======
-[1. A practical two-step framework for all-sky land surface temperature estimation](https://www.sciencedirect.com/science/article/abs/pii/S0034425724000026)
-<font size=2><b>H Zhang</b>, BH Tang, ZL Li<br>
-Remote Sensing of Environment (RSE), 2024<br>
-IF = 11.1, SCI Q1<br></font>  
-[2. Retrieval of daytime surface upward longwave radiation under all-sky conditions with remote sensing and meteorological reanalysis data](https://ieeexplore.ieee.org/abstract/document/9840399)
-<font size=2> <b>H Zhang</b>, BH Tang<br>
-IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022<br>
-IF = 7.5, SCI Q1<br></font>   
-[3. Estimation of downwelling surface longwave radiation for cloudy skies by considering the radiation effect from the entire cloud layers](https://www.sciencedirect.com/science/article/abs/pii/S0034425723003802)
-<font size=2>Y Jiang, BH Tang, <b>H Zhang</b><br>
-Remote Sensing of Environment (RSE), 2023<br>
-IF = 11.1, SCI Q1<br></font> 
+[1. A practical two-step framework for all-sky land surface temperature estimation](https://www.sciencedirect.com/science/article/abs/pii/S0034425724000026)  
+Remote Sensing of Environment (IF = 11.1, SCI Q1), 2024  
+[2. Retrieval of daytime surface upward longwave radiation under all-sky conditions with remote sensing and meteorological reanalysis data](https://ieeexplore.ieee.org/abstract/document/9840399)  
+IEEE Transactions on Geoscience and Remote Sensing (IF = 7.5, SCI Q1), 2022  
+[3. Estimation of downwelling surface longwave radiation for cloudy skies by considering the radiation effect from the entire cloud layers](https://www.sciencedirect.com/science/article/abs/pii/S0034425723003802)  
+Remote Sensing of Environment (IF = 11.1, SCI Q1), 2023
 
 Selected Awards
 ======
