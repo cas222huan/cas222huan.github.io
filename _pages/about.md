@@ -39,11 +39,11 @@ Research topics: Clear-sky LST estimation, LST downscaling
 Selected Publications
 ======
 [1. A practical two-step framework for all-sky land surface temperature estimation](https://www.sciencedirect.com/science/article/abs/pii/S0034425724000026)  
-<font size=6>**H Zhang**, BH Tang, ZL Li  
+<font size=2>**H Zhang**, BH Tang, ZL Li  
 Remote Sensing of Environment (RSE), 2024  
 IF = 11.1, SCI Q1</font>  
 [2. Retrieval of daytime surface upward longwave radiation under all-sky conditions with remote sensing and meteorological reanalysis data](https://ieeexplore.ieee.org/abstract/document/9840399)  
-<font size=4>**H Zhang**, BH Tang  
+<font size=2>**H Zhang**, BH Tang  
 IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022  
 IF = 7.5, SCI Q1</font>   
 [3. Estimation of downwelling surface longwave radiation for cloudy skies by considering the radiation effect from the entire cloud layers](https://www.sciencedirect.com/science/article/abs/pii/S0034425723003802)  
