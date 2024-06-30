@@ -39,11 +39,11 @@ Research topics: Clear-sky LST estimation, LST downscaling
 Selected Publications
 ======
 [1. A practical two-step framework for all-sky land surface temperature estimation](https://www.sciencedirect.com/science/article/abs/pii/S0034425724000026)  
-Remote Sensing of Environment (IF = 11.1, SCI Q1), 2024  
+_Remote Sensing of Environment_ (IF = 11.1, SCI Q1), 2024  
 [2. Retrieval of daytime surface upward longwave radiation under all-sky conditions with remote sensing and meteorological reanalysis data](https://ieeexplore.ieee.org/abstract/document/9840399)  
-IEEE Transactions on Geoscience and Remote Sensing (IF = 7.5, SCI Q1), 2022  
+_IEEE Transactions on Geoscience and Remote Sensing_ (IF = 7.5, SCI Q1), 2022  
 [3. Estimation of downwelling surface longwave radiation for cloudy skies by considering the radiation effect from the entire cloud layers](https://www.sciencedirect.com/science/article/abs/pii/S0034425723003802)  
-Remote Sensing of Environment (IF = 11.1, SCI Q1), 2023
+_Remote Sensing of Environment_ (IF = 11.1, SCI Q1), 2023
 
 Selected Awards
 ======
