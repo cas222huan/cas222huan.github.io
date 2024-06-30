@@ -43,6 +43,7 @@ Selected Publications
 [1. A practical two-step framework for all-sky land surface temperature estimation](https://www.sciencedirect.com/science/article/abs/pii/S0034425724000026)  
 _Remote Sensing of Environment_ (IF = 11.1, SCI Q1), 2024  
 [PDF](https://drive.google.com/file/d/1xdPBahbDnK8pagz_cusfbUZ8jmaY_C82/view)
+[<a href="./papers/2024RSE.pdf" target="_blank"><font color="blue">PDF</font></a>]
 
 [2. Retrieval of daytime surface upward longwave radiation under all-sky conditions with remote sensing and meteorological reanalysis data](https://ieeexplore.ieee.org/abstract/document/9840399)  
 _IEEE Transactions on Geoscience and Remote Sensing_ (IF = 7.5, SCI Q1), 2022  
