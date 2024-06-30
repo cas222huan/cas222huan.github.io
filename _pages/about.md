@@ -13,7 +13,7 @@ I am a third-year Ph.D. student in the Institute of Geographic Sciences and Natu
 
 Funded by the China Scholarship Council (CSC), I am taking part in a joint development Ph.D. project in the Luxembourg Institute of Science and Technology (LIST) from 2024 to 2026.
 
-Under the supervision of [Dr. Bo-Hui Tang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201105/t20110531_3146304.html) and [Dr. Tian Hu](https://scholar.google.com/citations?user=E0dkUncAAAAJ&hl=zh-CN&oi=ao), my primary research focuses on combining remote sensing physics with machine learning to retrieve surface biophysical parameters, such as land surface temperature (LST) and surface radiation budget (SRB).
+Under the supervision of [Dr. Bo-Hui Tang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201105/t20110531_3146304.html) and [Dr. Tian Hu](https://scholar.google.com/citations?user=E0dkUncAAAAJ&hl=zh-CN&oi=ao), my primary research focuses on combining <font color='blue'>remote sensing physics</font> with <font color='blue'>machine learning</font> to retrieve <font color='red'>land surface biophysical parameters</font>, such as land surface temperature (LST) and surface radiation budget (SRB).
 
 Education
 ======
@@ -40,10 +40,13 @@ Selected Publications
 ======
 [1. A practical two-step framework for all-sky land surface temperature estimation](https://www.sciencedirect.com/science/article/abs/pii/S0034425724000026)  
 _Remote Sensing of Environment_ (IF = 11.1, SCI Q1), 2024  
+[PDF] | [Code]  
 [2. Retrieval of daytime surface upward longwave radiation under all-sky conditions with remote sensing and meteorological reanalysis data](https://ieeexplore.ieee.org/abstract/document/9840399)  
 _IEEE Transactions on Geoscience and Remote Sensing_ (IF = 7.5, SCI Q1), 2022  
+[PDF] | [Code]  
 [3. Estimation of downwelling surface longwave radiation for cloudy skies by considering the radiation effect from the entire cloud layers](https://www.sciencedirect.com/science/article/abs/pii/S0034425723003802)  
 _Remote Sensing of Environment_ (IF = 11.1, SCI Q1), 2023
+[PDF] | [Code]
 
 Selected Awards
 ======
