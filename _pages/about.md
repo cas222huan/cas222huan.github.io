@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Nice to meet you!
+Nice to meet you :-)
 
 I am a third-year Ph.D. student in the Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences. Before that, I received my B.E. degree from the School of Geodesy and Geomatics (SGG), Wuhan University in 2021.
 
