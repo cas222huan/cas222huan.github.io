@@ -46,6 +46,6 @@ Research topics: Thermal infrared remote sensing
 Selected Awards
 ======
 Kwang-Hua Scholarship, 2018 & 2019  
-**<font color='red'> National Scholarship of China, 2020 </font>**  
+**<font color='red'> National Scholarship, 2020 </font>**  
 **<font color='red'> Top 1% graduate of Wuhan University, 2021 </font>**  
 Director’s Scholarship of IGSNRR, 2022 & 2023
