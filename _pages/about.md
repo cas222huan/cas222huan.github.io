@@ -13,9 +13,9 @@ I am a third-year Ph.D. student in the Institute of Geographic Sciences and Natu
 
 Funded by the China Scholarship Council (CSC), I am taking part in a joint development Ph.D. project in the Luxembourg Institute of Science and Technology (LIST) from 2024 to 2026.
 
-Under the supervision of [Dr. Bo-Hui Tang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201105/t20110531_3146304.html) and [Dr. Tian Hu](https://scholar.google.com/citations?user=E0dkUncAAAAJ&hl=zh-CN&oi=ao), my primary research focuses on combining <font color='blue'>remote sensing physics</font> with <font color='blue'>machine learning</font> to retrieve <font color='red'>land surface biophysical parameters</font>, such as land surface temperature (LST) and surface radiation budget (SRB).
+Under the supervision of [Dr. Bo-Hui Tang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201105/t20110531_3146304.html) and [Dr. Tian Hu](https://scholar.google.com/citations?user=E0dkUncAAAAJ&hl=zh-CN&oi=ao), my primary research focuses on combining <font color='red'>remote sensing physics</font> with <font color='red'>machine learning</font> to retrieve <font color='blue'>land surface biophysical parameters</font>, such as land surface temperature (LST) and surface radiation budget (SRB).
 
-If you have any interest or questions regarding my work, please feel free to contact me via email :-D
+If you are interested in my work or have any questions, please feel free to contact me via email :-D
 
 Education
 ======
@@ -35,7 +35,7 @@ Research topics: All-sky LST and SRB estimation, LST application
 
 **Luxembourg Institute of Science and Technology, _2024.02~2026.02_**  
 _Environmental Research and Innovation Department (ERIN), Joint development Ph.D. candidate_  
-Research topics: Clear-sky LST estimation, LST downscaling    
+Research topics: Temperature and emissivity seperation, LST downscaling  
 &emsp;Supervisor: Tian Hu & [Kanishka Mallick](https://scholar.google.com/citations?user=iAmDYisAAAAJ&hl=en)
 
 Selected Publications
