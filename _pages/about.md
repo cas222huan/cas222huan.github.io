@@ -15,13 +15,6 @@ Funded by the China Scholarship Council (CSC), I am taking part in a joint devel
 
 Under the supervision of [Dr. Bo-Hui Tang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201105/t20110531_3146304.html) and [Dr. Tian Hu](https://scholar.google.com/citations?user=E0dkUncAAAAJ&hl=zh-CN&oi=ao), my primary research focuses on combining remote sensing physics with machine learning to retrieve surface biophysical parameters, such as land surface temperature (LST) and surface radiation budget (SRB).
 
-Research Topics
-======
-* Clear-sky and all-sky LST estimation
-* Thermal directionality
-* LST downscaling
-* LST application
-
 Education
 ======
 **Wuhan University, _2017.09~2021.06_**  
@@ -35,13 +28,18 @@ Research topics: Earthquake early warning using high-frequency GNSS data
 **Chinese Academy of Sciences, _2021.09~now_**  
 _Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Ph.D. candidate_  
 Major: Cartography and Geographic Information System  
-Research topics: Thermal infrared remote sensing  
+Research topics: All-sky LST and SRB estimation, LST application  
 &emsp;Supervisor: Bo-Hui Tang
 
 **LIST, _2024.02~2026.02_**  
 _Environmental Research and Innovation Department (ERIN), Joint development Ph.D. candidate_  
-Research topics: Thermal infrared remote sensing  
+Research topics: Clear-sky LST estimation, LST downscaling    
 &emsp;Supervisor: Tian Hu & [Kanishka Mallick](https://scholar.google.com/citations?user=iAmDYisAAAAJ&hl=en)
+
+Selected Publications
+======
+2. A practical two-step framework for all-sky land surface temperature estimation  
+1. Retrieval of daytime surface upward longwave radiation under all-sky conditions with remote sensing and meteorological reanalysis data
 
 Selected Awards
 ======
