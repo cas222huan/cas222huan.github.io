@@ -15,6 +15,8 @@ Funded by the China Scholarship Council (CSC), I am taking part in a joint devel
 
 Under the supervision of [Dr. Bo-Hui Tang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201105/t20110531_3146304.html) and [Dr. Tian Hu](https://scholar.google.com/citations?user=E0dkUncAAAAJ&hl=zh-CN&oi=ao), my primary research focuses on combining <font color='blue'>remote sensing physics</font> with <font color='blue'>machine learning</font> to retrieve <font color='red'>land surface biophysical parameters</font>, such as land surface temperature (LST) and surface radiation budget (SRB).
 
+If you have any interest or questions regarding my work, please feel free to contact me via email :-D
+
 Education
 ======
 **Wuhan University, _2017.09~2021.06_**  
