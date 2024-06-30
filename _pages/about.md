@@ -42,11 +42,11 @@ Selected Publications
 **H Zhang**, BH Tang, ZL Li  
 Remote Sensing of Environment (RSE), 2024  
 IF = 11.1, SCI Q1
-2. [Retrieval of daytime surface upward longwave radiation under all-sky conditions with remote sensing and meteorological reanalysis data](https://ieeexplore.ieee.org/abstract/document/9840399)  
+[2. Retrieval of daytime surface upward longwave radiation under all-sky conditions with remote sensing and meteorological reanalysis data](https://ieeexplore.ieee.org/abstract/document/9840399)  
 **H Zhang**, BH Tang  
 IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022  
 IF = 7.5, SCI Q1
-3. [Estimation of downwelling surface longwave radiation for cloudy skies by considering the radiation effect from the entire cloud layers](https://www.sciencedirect.com/science/article/abs/pii/S0034425723003802)  
+[3. Estimation of downwelling surface longwave radiation for cloudy skies by considering the radiation effect from the entire cloud layers](https://www.sciencedirect.com/science/article/abs/pii/S0034425723003802)  
 Y Jiang, BH Tang, **H Zhang**  
 Remote Sensing of Environment (RSE), 2023  
 IF = 11.1, SCI Q1
