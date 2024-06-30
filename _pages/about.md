@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+Nice to meet you!
+
 I am a third-year Ph.D. student in the Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences. Before that, I received my B.E. degree from the School of Geodesy and Geomatics (SGG), Wuhan University in 2021.
+
+Funded by the China Scholarship Council (CSC), I am taking part in a joint development Ph.D. project in the Luxembourg Institute of Science and Technology (LIST) from 2024 to 2026.
 
 Under the supervision of [Dr. Bo-Hui Tang](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/201105/t20110531_3146304.html) and [Dr. Tian Hu](https://scholar.google.com/citations?user=E0dkUncAAAAJ&hl=zh-CN&oi=ao), my primary research focuses on combining remote sensing physics with machine learning to retrieve surface biophysical parameters, such as land surface temperature and surface radiation budget.
 
