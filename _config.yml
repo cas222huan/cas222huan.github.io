@@ -21,7 +21,7 @@ repository               : "cas222huan/cas222huan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "丑鱼.png"
   name             : "Huanyu Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Thermal infrared remote sensing"
