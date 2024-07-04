@@ -21,8 +21,7 @@ Education
 ======
 **Wuhan University, _2017.09~2021.06_**  
 _School of Geodesy and Geomatics (SGG), Bachelor of Engineering_  
-Major: Surveying and mapping engineering    
-&emsp;Core courses: Geodesy, Global Navigation Satellite Systems (GNSS), Computer programming  
+Major: Surveying and mapping engineering   
 &emsp;GPA: 3.95/4.0 &emsp;&emsp;Rank: 2/265  
 Research topics: Earthquake early warning using high-frequency GNSS data  
 &emsp;Supervisor: Ting Chen
